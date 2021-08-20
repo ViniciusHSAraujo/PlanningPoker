@@ -43,12 +43,16 @@ A votação estará ativa até que os observadores revelem os votos.
 
 Você pode mudar a sua estimativa a qualquer momento enquanto a votação estiver ativa reagindo com outro emoji de valor correspondente.
 
+![Votação - Visão geral](./img/estimate-in-progress.png)
+
+![Votação - Visão do participante](./img/estimate-voting.png)
 
 ## Revelando os votos
 Durante a votação, é possível acompanhar o status da votação e, após todos votarem, os observadores podem executar o comando `!reveal`, e o bot revelará os votos de cada participante.
 
 *Obs: Não é necessário que todos tenham votado para executar esse comando.*
 
+![Revelando](./img/reveal.png)
 
 ## Reestimando
 Após revelar os votos, é disponibilizado a média e confiança dos votos, caso as estimativas estejam conflitantes, os observadores poderão reabrir a votação por meio do comando `!reestimate`, e assim os participantes poderão estimar novamente a história anterior.
@@ -68,4 +72,5 @@ Nossa licença é do modelo [Donationware](https://wikipedia.org/wiki/Donationwa
 Se você estiver usando e gostando, você pode fazer uma doação para ajudar a manter os nossos servidores no ar.
 
 Pix: `18fc0afb-1844-403d-aec6-0cdf105991ee`
-![PIX](./img/pix.png)
+
+<img src="./img/pix.png" width="100" height="100">
