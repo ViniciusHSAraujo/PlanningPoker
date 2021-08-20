@@ -73,4 +73,4 @@ Se você estiver usando e gostando, você pode fazer uma doação para ajudar a 
 
 Pix: `18fc0afb-1844-403d-aec6-0cdf105991ee`
 
-<img src="./img/pix.png" width="100" height="100">
+<img src="./img/pix.png" width="250" height="250">
