@@ -9,6 +9,10 @@ Você pode clicar [nesse link](https://bit.ly/DiscordPlanningPokerBot) para conv
 
 ![Adicionando ao servidor](./img/add-bot.png)
 
+## Como ver os comandos disponíveis?
+
+Caso tenha dúvidas, você pode executar o comando `!help` e obter a lista de todos os comandos disponíveis de forma simplificada.
+
 ## Iniciando
 
 Com o bot adicionado ao servidor, reúna seus participantes em um canal de texto. 
